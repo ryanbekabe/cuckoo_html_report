@@ -16,3 +16,6 @@ Name            : Riyan Hidayat Samosir
 Website         : https://hanyajasa.com
 Email           : bekabeipa@gmail.com
 </pre>
+
+
+![summary_report](/htmlreportcuckoo.png)
