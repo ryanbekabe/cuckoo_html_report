@@ -1,6 +1,10 @@
 # cuckoo_html_report
 This website is created using PHP by utilizing the Port REST API that is open from Cuckoo to upload files, then downloads the results of a brief Cuckoo report after the file is analyzed by the Cuckoo server for approximately 2 minutes.
 <pre>
+Example: https://reportcuckoo.hanyajasa.com
+Example: https://reportcuckoo.hanyajasa.com/report.php?id=1
+
+
 Donation:
 Account         :
 Branch          : Palangka Raya, Indonesia
